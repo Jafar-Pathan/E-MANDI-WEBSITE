@@ -37,67 +37,7 @@
             <b>Computer</b></td>
     </tr>
     <tr>
-        <td>
-                &nbsp;</td>
-        <td width="50%">
-            <b></b>
-        </td>
-    </tr>
-    <tr>
-        <td bgcolor="#194654" 
-            style="color: white; font-family: Arial, Helvetica, sans-serif; font-size: medium; font-weight: bold;">
-            Name Of Group Member 2:</td>
-        <td width="50%">
-            <b>Your Name</b></td>
-    </tr>
-    <tr>
-        <td bgcolor="#194654" 
-            style="color: white; font-family: Arial, Helvetica, sans-serif; font-size: medium; font-weight: bold;">
-            Enrollment No.:</td>
-        <td width="50%">
-            <b>Your Number</b></td>
-    </tr>
-    <tr>
-        <td bgcolor="#194654" 
-            style="color: white; font-family: Arial, Helvetica, sans-serif; font-size: medium; font-weight: bold;">
-                Department:</td>
-        <td width="50%">
-            <b>Computer</b></td>
-    </tr>
-    <tr>
-        <td>
-                &nbsp;</td>
-        <td width="50%">
-            <b></b>
-        </td>
-    </tr>
-    <tr>
-        <td bgcolor="#194654" 
-            style="color: white; font-family: Arial, Helvetica, sans-serif; font-size: medium; font-weight: bold;">
-            Name Of Group Member 3:</td>
-        <td width="50%">
-            <b>Your Name</b></td>
-    </tr>
-    <tr>
-        <td bgcolor="#194654" 
-            style="color: white; font-family: Arial, Helvetica, sans-serif; font-size: medium; font-weight: bold;">
-            Enrollment No.:</td>
-        <td width="50%">
-            <b>Your Number</b></td>
-    </tr>
-    <tr>
-        <td bgcolor="#194654" 
-            style="color: white; font-family: Arial, Helvetica, sans-serif; font-size: medium; font-weight: bold;">
-                Department:</td>
-        <td width="50%">
-            <b>Computer</b></td>
-    </tr>
-    <tr>
-        <td>
-                &nbsp;</td>
-        <td>
-            &nbsp;</td>
-    </tr>
+
 </table>
 
 </asp:Content>
